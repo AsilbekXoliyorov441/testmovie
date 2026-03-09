@@ -1,4 +1,3 @@
-import React from "react";
 import HomeBanner from "./components/shared/home/HomeBanner";
 import HomeGaner from "./components/shared/home/HomeGaner";
 import HomeMovies from "./components/shared/home/HomeMovies";
